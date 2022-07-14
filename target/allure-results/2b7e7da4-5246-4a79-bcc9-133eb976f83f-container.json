@@ -1,0 +1,1 @@
+{"uuid":"2b7e7da4-5246-4a79-bcc9-133eb976f83f","name":"TestNameCard()","children":["7691bf78-71f2-42c8-ab0f-4b28e47f5bba"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1657825064308,"stop":1657825071709}],"afters":[],"links":[],"start":1657825064077,"stop":1657825075126}
