@@ -1,0 +1,1 @@
+{"uuid":"afc1cd70-e5b3-4b10-ba2f-a7f15d5b5f9f","name":"TestGroupRadio()","children":["873eb30a-682b-4eb9-add0-a3e46f7e8780"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1657660337461,"stop":1657660346776}],"afters":[],"links":[],"start":1657660337235,"stop":1657660349639}
