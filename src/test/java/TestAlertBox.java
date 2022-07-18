@@ -1,10 +1,17 @@
+import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 
 public class TestAlertBox extends BaseTest {
 
     @Test
+    @DisplayName("Alert: OK")
+    @Description("Testing OK button on the Alert box")
+    @Severity(SeverityLevel.NORMAL)
     public void TestAlertOK() {
         AlertBoxPage alertBoxPage = new AlertBoxPage(driver);
 

@@ -1,0 +1,1 @@
+{"uuid":"3d69362c-8387-4747-b71a-0d0130f8bcd9","name":"Test Select Day","children":["6ca4c77f-7e78-423e-b5fb-653cbc30dfb3"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1658163383952,"stop":1658163390977}],"afters":[],"links":[],"start":1658163383778,"stop":1658163394404}

@@ -1,0 +1,1 @@
+{"uuid":"eeb7521a-551c-4b37-a49c-09d3f109103d","name":"Test Select City","children":["21e19f2a-4fbe-4a60-80c3-d27f06db82f5"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1658167550626,"stop":1658167559357}],"afters":[],"links":[],"start":1658167550437,"stop":1658167563216}
