@@ -1,0 +1,1 @@
+{"uuid":"78253402-1ba6-41d5-a442-04188a8e6fef","name":"TestSumInvalidNumbers()","children":["6a5f3269-2c64-4d57-b4ca-a213d37d6f34"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668692066529,"stop":1668692067824}],"afters":[],"links":[],"start":1668692066478,"stop":1668692070597}
